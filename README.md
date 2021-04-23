@@ -1,6 +1,6 @@
 # Blaze Masters - Unity 2D Serious Game
 
-Blaze Masters is a 2D prototype built with Unity and Web GL in 2.5 weeks int a Team of 5. The purpose of the Game was to teach forest fire facts and better ways to handle.
+Blaze Masters is a 2D prototype built with Unity and Web GL in 2.5 weeks with a Team of 5. The purpose of the Game was to teach forest fire facts and better ways to handle.
 The game contains 4 buttons:
   ### Plant
   ### Water
