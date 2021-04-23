@@ -13,10 +13,10 @@ The game contains 4 buttons:
   The Goal of the game is to be able to use this knowledge and manage your representational forest until you are able to achieve a growth of 40 plants total. If you do so you Win and if you let the whole forest burn, you loose. 
   
   
-  Cody Cottrell - Producer
-  Tianhong Sheng - Artist
-  Andrey Chen - Technical Artist
-  Ray Wang - Engineer
-  Cesar Caceres (me) - Engineer
+  ###Cody Cottrell - Producer
+  ###Tianhong Sheng - Artist
+  ###Andrey Chen - Technical Artist
+  ###Ray Wang - Engineer
+  ###Cesar Caceres (me) - Engineer
   
  
