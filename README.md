@@ -1,6 +1,6 @@
-# Unity 2D Serious Game
+# Blaze Masters - Unity 2D Serious Game
 
-Built a 2D prototype with Unity and Web GL in 2.5 weeks. The purpose of the Game was to teach forest fire facts and better ways to handle.
+Blaze Masters is a 2D prototype built with Unity and Web GL in 2.5 weeks int a Team of 5. The purpose of the Game was to teach forest fire facts and better ways to handle.
 The game contains 4 buttons:
   ### Plant
   ### Water
@@ -12,3 +12,11 @@ The game contains 4 buttons:
   
   The Goal of the game is to be able to use this knowledge and manage your representational forest until you are able to achieve a growth of 40 plants total. If you do so you Win and if you let the whole forest burn, you loose. 
   
+  
+  Cody Cottrell - Producer
+  Tianhong Sheng - Artist
+  Andrey Chen - Technical Artist
+  Ray Wang - Engineer
+  Cesar Caceres (me) - Engineer
+  
+ 
